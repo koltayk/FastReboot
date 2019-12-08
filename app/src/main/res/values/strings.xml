@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FastReboot</string>
+    <string name="reboot">reboot</string>
+    <string name="recovery">recovery</string>
+    <string name="fastboot">fastboot</string>
+    <string name="halt">halt</string>
+</resources>
